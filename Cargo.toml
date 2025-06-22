@@ -1,0 +1,8 @@
+[package]
+name = "cargo-glados"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+soloud = "1.0.5"
+tiny-rng = "0.3.0"
