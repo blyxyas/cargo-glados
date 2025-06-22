@@ -1,7 +1,7 @@
 // For RNG Generation
 use soloud::{AudioExt, LoadExt, Soloud, Wav};
 use std::{
-    process::{Stdio, exit},
+    process::Stdio,
     time::{SystemTime, UNIX_EPOCH},
 };
 use tiny_rng::{Rand, Rng};
