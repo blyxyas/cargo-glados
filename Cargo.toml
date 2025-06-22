@@ -2,7 +2,7 @@
 name = "cargo-glados"
 version = "0.1.0"
 edition = "2024"
-repo = "https://github.com/blyxyas/cargo-glados"
+repository = "https://github.com/blyxyas/cargo-glados"
 description = "GlaDOS in your terminal?"
 license = "Jokester license v2.0"
 
